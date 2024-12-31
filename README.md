@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SURYA PRATAP SINGH</h1>
+<h1 align="center">Hi 👋, I'm SURYA SINGH</h1>
 <h3 align="center">A dedicated Frontend developer and enthusiastic Software Development Engineer (SDE) aspirant.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryasingh567&label=Profile%20views&color=0e75b6&style=flat" alt="suryasingh567" /> </p>
